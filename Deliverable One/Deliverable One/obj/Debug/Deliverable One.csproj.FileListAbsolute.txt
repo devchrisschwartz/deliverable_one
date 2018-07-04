@@ -1,0 +1,7 @@
+D:\Programming\Prework\Deliverable One\Deliverable One\Deliverable One\obj\Debug\Deliverable One.csprojAssemblyReference.cache
+D:\Programming\Prework\Deliverable One\Deliverable One\Deliverable One\obj\Debug\Deliverable One.csproj.CoreCompileInputs.cache
+D:\Programming\Prework\Deliverable One\Deliverable One\Deliverable One\bin\Debug\Deliverable One.exe.config
+D:\Programming\Prework\Deliverable One\Deliverable One\Deliverable One\bin\Debug\Deliverable One.exe
+D:\Programming\Prework\Deliverable One\Deliverable One\Deliverable One\bin\Debug\Deliverable One.pdb
+D:\Programming\Prework\Deliverable One\Deliverable One\Deliverable One\obj\Debug\Deliverable One.exe
+D:\Programming\Prework\Deliverable One\Deliverable One\Deliverable One\obj\Debug\Deliverable One.pdb
